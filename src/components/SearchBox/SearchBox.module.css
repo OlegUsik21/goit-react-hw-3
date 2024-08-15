@@ -1,0 +1,21 @@
+.box {
+  display: grid;
+  justify-items: start;
+  align-items: center;
+  align-content: center;
+  margin-left: 30px;
+}
+
+.boxText {
+  margin: 0;
+  padding-top: 40px;
+}
+
+.boxLabel {
+}
+
+.boxInput {
+  width: 250px;
+  padding: 3px;
+  border: 1.5px solid black;
+}

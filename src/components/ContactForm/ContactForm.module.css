@@ -1,0 +1,33 @@
+
+.box{
+    width: 250px;
+    height: 100%;
+    margin-left: 30px;
+    padding: 5px;
+    border: 1.5px solid black;
+    border-radius: 3%;
+}
+
+.boxName{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    justify-items: start;
+    padding-bottom: 10px;
+}
+
+.boxLabel{
+    padding-bottom: 5px;
+}
+
+.boxInput{
+    padding: 3px;
+}
+
+.btn{
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
